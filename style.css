@@ -1,0 +1,17 @@
+.body_backgorund {
+background-image:url(hOye.gif);
+background-position:center;
+background-size:cover;
+align-content: center;
+}
+#myCanvas{
+border: 10px ridge;
+background-color: purple; 
+margin-top: 60px;
+background-image: url(BirthdayImage.jpg);
+background-position: center;
+background-size: contain;
+}
+body{
+align-content: center;
+}
